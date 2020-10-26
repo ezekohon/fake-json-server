@@ -1,17 +1,19 @@
-[
-   {
-      "title":"Hamburguesa",
-      "price":21,
-      "buyed":false
-   },
-   {
-      "title":"Empanada",
-      "price":10,
-      "buyed":false
-   },
-   {
-      "title":"Pizza",
-      "price":24,
-      "buyed":false
-   }
-]
+{
+   "items":[
+      {
+         "title":"Hamburguesa",
+         "price":21,
+         "buyed":false
+      },
+      {
+         "title":"Empanada",
+         "price":10,
+         "buyed":false
+      },
+      {
+         "title":"Pizza",
+         "price":24,
+         "buyed":false
+      }
+   ]
+}
